@@ -1,7 +1,7 @@
 <h2>📄 Sobre o Projeto</h2>
 <br>
 • Projeto feito para aplicar meus conhecimentos que adquiri no curso React onde coloquei em prática a criação de uma landing page de um cardapío digital.
-<br>
+<br><br>
 • Criado em 06/03/2023
 <br><br>
 <h1>🖼️ Imagens do Projeto </h1>
